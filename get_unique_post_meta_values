@@ -1,3 +1,5 @@
+<?php
+ // When you will add the code in your file, you'll remove opening PHP tag
 /**
  * Description: Getting all the values associated with a specific custom post meta key, across all posts 
  * Author: Chinmoy Paul
